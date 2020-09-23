@@ -1,0 +1,8 @@
+045  ^ Product  ^   111.23  ^  112.2356  ^Description
+041  ^ Product  ^   111.23  ^  112.2356  ^Description
+0415  ^ Product  ^   111.23  ^  112.2356  ^Description
+0456894  ^ Product  ^   111.23  ^  112.2356  ^Description
+01245415  ^ Product  ^   111.23  ^  112.2356  ^Description
+0125415  ^ Product  ^   111.23  ^  112.2356  ^Description
+041245  ^ Product  ^   111.23  ^  112.2356  ^Description
+045698  ^ Product  ^   111.23  ^  112.2356  ^Description

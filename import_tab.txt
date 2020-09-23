@@ -1,0 +1,13 @@
+0015	Produkt	111.23	112.2356	Omschrijving Produkt1
+0016	Produkt	1111.23	1121.2356	Omschrijving Produkt2
+0017	Produkt	111.23	112.2356	Omschrijving Produkt1
+0018	Produkt	111.23	112.2356	Omschrijving Produkt2
+0019	Produkt	111.23	112.2356	Omschrijving Produkt1
+00161	Produkt	111.23	112.2356	Omschrijving Produkt2
+00152	Produkt	111.23	112.2356	Omschrijving Produkt1
+00163	Produkt	111.23	112.2356	Omschrijving Produkt2
+00154	Produkt	111.23	112.2356	Omschrijving Produkt1
+00165	Produkt	111.23	112.2356	Omschrijving Produkt2
+00156	Produkt	111.23	112.2356	Omschrijving Produkt1
+00167	Produkt	111.23	112.2356	Omschrijving Produkt2
+001678	Produkt	11.23	12.2356	Omschrijving Produkt3
